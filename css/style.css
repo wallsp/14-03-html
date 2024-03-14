@@ -195,4 +195,18 @@
   height: 200px;
 }
 
+/* 24 */
+
+.text-aligned{
+    text-align: right;
+}
+
+.container-center{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 300px;
+    border: solid red;
+    margin-left: 130px;
+}
+
 
