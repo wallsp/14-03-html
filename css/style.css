@@ -209,4 +209,50 @@
     margin-left: 130px;
 }
 
+/* 25 */
+
+.underline{
+    text-decoration: underline;
+}
+.line-trough{
+    text-decoration: line-through;
+}
+.remover-underline{
+    text-decoration: none;
+    color: red;
+}
+.upper{text-transform: uppercase
+}
+.lower{text-transform: lowercase;
+}
+.spacing{letter-spacing: 5px;
+}
+.serif{font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sans-serif{font-family: 'Courier New', Courier, monospace;
+}
+.monospace{font-family:'Courier New', Courier, monospace;
+}
+.cursive{font-family: cursive;
+}
+.fantasy{font-family: fantasy;
+}
+.italic{font-family: italic;
+}
+.oblique{font-style: oblique;
+}
+.thin
+.bold
+.bolder{font-family: helvetica;
+}
+.thin{font-weight: 100;
+}
+.bold{font-weight: 600;
+}
+.bolder{font-weight: 900;
+}
+.small{font-size: 6px;
+}
+.big{font-size: 78px;
+}
 
